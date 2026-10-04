@@ -12,6 +12,5 @@ Limbo Stories là website đọc truyện cá nhân, tập trung vào việc hi�
 ### Tính năng
 - Giao diện đơn giản, dễ mở trực tiếp bằng trình duyệt
 - Không dùng framework
-- Có chế độ Admin Mode với truy cập qua `?admin`
 - Có trang Điều khoản theo `#tos`
 - Dành cho cá nhân, dễ tùy biến và phát triển thêm
