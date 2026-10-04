@@ -1,19 +1,32 @@
-# limbo-stories
+# Limbo Stories
 
- website nhỏ để đọc truyện và ghi chú nhanh, tiện lợi.
+Web đọc truyện cá nhân được xây dựng bằng HTML/CSS/JS thuần, không dùng framework.
 
-## MụMộtc tiêu
-- Đọc truyện trực tiếp trên web
-- Ghi chú những đoạn hay hoặc ý tưởng
-- Theo dõi tiến độ đọc
-- Dễ sử dụng, tối giản, không rườm rà
+## Giới thiệu
+Limbo Stories là website đọc truyện cá nhân, tập trung vào việc hiển thị và đọc các truyện do tác giả viết.
 
-## Công nghệ sử dụng
-- Frontend: HTML, CSS, JavaScript
-- Framework/Library: React hoặc Vue (nếu bạn đang dùng)
-- Build tool: Vite
-- State / lưu trữ: LocalStorage hoặc backend nếu cần
+### Các truyện có sẵn
+- Linh Giới
+- PHIÊN BẢN 0.0.0
 
-## Cài đặt
-```bash
-npm install
+### Tính năng
+- Giao diện đơn giản, dễ mở trực tiếp bằng trình duyệt
+- Không dùng framework
+- Có chế độ Admin Mode với truy cập qua `?admin`
+- Có trang Điều khoản theo `#tos`
+- Dành cho cá nhân, dễ tùy biến và phát triển thêm
+
+## Cấu trúc đề xuất
+```txt
+project/
+├── index.html
+├── README.md
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── main.js
+├── stories/
+│   ├── linh-gio.html
+│   └── phien-ban-0.0.0.html
+└── LICENSE
