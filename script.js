@@ -256,9 +256,440 @@ Bạn chỉ bước vào một nơi trông giống như thực tại mà thôi.
 Câu chuyện, chỉ mới bắt đầu.`
       }
     ]
-  }
-];
+  },
+  {
+    id:'phien-ban-0',
+    title:'PHIÊN BẢN 0.0.0 KHÔNG TỒN TẠI',
+    desc:'Sáng thứ Hai, bạn thức dậy lúc 7 giờ 12 phút. Điều đầu tiên bạn nhận ra là: bạn chưa ngủ. Điều thứ hai: hôm nay không phải thứ Hai.',
+    chapters:[
+      {
+        title:'Chương 1 — Thứ Tư',
+        content:`Sáng thứ Hai, bạn thức dậy lúc 7 giờ 12 phút.
 
+Điều đầu tiên bạn nhận ra là:
+
+Bạn chưa ngủ.
+
+Điều thứ hai:
+
+Hôm nay không phải thứ Hai.
+
+Điều thứ ba:
+
+Đồng hồ trong phòng đang chạy ngược.
+
+7:12.
+
+7:11.
+
+7:10.
+
+Bạn nhìn nó khoảng mười giây.
+
+Rồi đồng hồ chạy tới:
+
+7:13.
+
+Bạn: "..."
+
+Đồng hồ: 7:14.
+
+Bạn quyết định không quan tâm.
+
+Bạn xuống bếp.
+
+Mẹ đang ngồi ăn sáng.
+
+"Mẹ ơi."
+
+"Ừ?"
+
+"Hôm nay thứ mấy?"
+
+Mẹ nhìn bạn.
+
+"Thứ Tư."
+
+Bạn gật đầu.
+
+"À."
+
+Mẹ hỏi:
+
+"Con hỏi để làm gì?"
+
+"Con quên."
+
+Mẹ im lặng.
+
+Rồi mẹ chỉ vào chiếc ghế đối diện.
+
+"Ngồi đi."
+
+Bạn ngồi xuống.
+
+Trên bàn có một cái bánh mì.
+
+Bạn cầm lên.
+
+Bánh mì nói:
+
+"Đừng ăn."
+
+Bạn thả nó xuống.
+
+Mẹ nhìn bạn.
+
+"Con nghe thấy à?"
+
+Bạn từ từ quay sang.
+
+"...Mẹ cũng nghe thấy?"
+
+Mẹ lắc đầu.
+
+"Không."
+
+"Vậy sao mẹ hỏi?"
+
+"Vì hôm qua con đã hỏi câu đó rồi."
+
+"Nhưng hôm nay là thứ Tư."
+
+"Ừ."
+
+"Vậy hôm qua là thứ Ba?"
+
+Mẹ nhìn đồng hồ.
+
+"Không."
+
+"Thế hôm qua là gì?"
+
+Mẹ suy nghĩ rất lâu.
+
+"Là một cái cửa."
+
+Bạn bắt đầu thấy có vấn đề.
+
+---
+
+Bạn đi học.
+
+Trên đường, một ông chú đứng giữa ngã tư cầm tấm bảng:
+
+ĐỪNG ĐI VỀ PHÍA BÊN TRÁI.
+
+Bạn nhìn sang trái.
+
+Không có gì.
+
+Nhìn sang phải.
+
+Không có gì.
+
+Bạn tiếp tục đi thẳng.
+
+Ông chú hét:
+
+"SAI RỒI!"
+
+Bạn quay lại.
+
+Ông chú biến mất.
+
+Tấm bảng vẫn còn.
+
+Nhưng giờ nó viết:
+
+CẢM ƠN VÌ ĐÃ ĐI SAI.
+
+Bạn quyết định tăng tốc.
+
+---
+
+Đến trường, bạn bước vào lớp.
+
+Cả lớp im phăng phắc.
+
+Giáo viên đứng trên bục.
+
+"Em đến muộn."
+
+Bạn nhìn đồng hồ.
+
+7:42.
+
+"Nhưng em vào đúng giờ mà cô."
+
+Cô giáo lắc đầu.
+
+"Đúng giờ của ai?"
+
+Bạn không trả lời.
+
+Cô mở sổ điểm.
+
+"Điểm danh."
+
+Cô đọc:
+
+"An."
+
+"Có."
+
+"Bình."
+
+"Có."
+
+"Chi."
+
+"Có."
+
+"Bạn."
+
+Bạn ngẩng đầu.
+
+"Có."
+
+Cả lớp quay sang nhìn bạn.
+
+Cô giáo dừng lại.
+
+"Bạn nào?"
+
+Bạn chỉ vào mình.
+
+"Em."
+
+Cô nhìn sổ.
+
+Rồi nhìn bạn.
+
+Rồi nhìn sổ.
+
+"Không."
+
+"Không gì ạ?"
+
+"Em không phải học sinh."
+
+Cả lớp đồng thanh:
+
+"ĐÚNG."
+
+Bạn đứng bật dậy.
+
+"Thế em là gì?"
+
+Cô giáo đóng sổ.
+
+"Người đã đi nhầm vào câu chuyện."
+
+---
+
+Bạn chạy khỏi lớp.
+
+Hành lang dài bất thường.
+
+Phòng 9A.
+
+Phòng 9B.
+
+Phòng 9C.
+
+Phòng 9D.
+
+Phòng 9E.
+
+Phòng 9F.
+
+Phòng 9G.
+
+...
+
+Phòng 9Z.
+
+Bạn quay lại.
+
+Phía sau không còn lớp học.
+
+Chỉ có một cánh cửa.
+
+Trên cửa viết:
+
+PHÒNG GIÁO VIÊN — ĐỪNG VÀO NẾU BẠN CHƯA BIẾT MÌNH ĐANG Ở ĐÂU.
+
+Bạn mở cửa.
+
+Bên trong có một người giống hệt bạn.
+
+Người đó đang ngồi đọc sách.
+
+Bạn:
+
+"...Ai vậy?"
+
+Người kia:
+
+"Bạn."
+
+"Không, tôi là tôi."
+
+"Biết."
+
+"Vậy bạn là ai?"
+
+Người kia đóng sách.
+
+"Bản cập nhật."
+
+Bạn đứng im.
+
+"Bản cập nhật gì?"
+
+Người kia chỉ vào đầu bạn.
+
+"Cái đó."
+
+---
+
+[HỆ THỐNG]
+
+«Phát hiện người dùng chưa cài đặt:
+
+NHẬN THỨC 2.0
+
+Đang chuẩn bị cập nhật...»
+
+Bạn hoảng:
+
+"Khoan."
+
+«1%.»
+
+"Khoan đã."
+
+«12%.»
+
+"Ê."
+
+«37%.»
+
+"DỪNG!"
+
+«68%.»
+
+Người kia đứng dậy.
+
+"Không dừng được."
+
+"Tại sao?"
+
+"Vì bạn đã đọc đến đây."
+
+«91%.»
+
+Bạn nhìn người kia.
+
+"Vậy nếu tôi đóng câu chuyện lại?"
+
+Người kia mỉm cười.
+
+"Bạn nghĩ mình đang đọc câu chuyện?"
+
+...
+
+Màn hình hiện:
+
+«99%.»
+
+Bạn không còn nghe thấy tiếng gì.
+
+Không còn trường.
+
+Không còn căn phòng.
+
+Không còn người kia.
+
+Chỉ còn một dòng chữ.
+
+«CẬP NHẬT HOÀN TẤT.»
+
+Bạn mở mắt.
+
+Bạn đang ngồi trên giường.
+
+7 giờ 12 phút.
+
+Thứ Hai.
+
+Bạn thở phào.
+
+"May quá. Chỉ là mơ."
+
+Bạn bước xuống giường.
+
+Đi vào bếp.
+
+Mẹ đang ăn sáng.
+
+"Mẹ ơi."
+
+"Ừ?"
+
+"Hôm nay thứ mấy?"
+
+Mẹ nhìn bạn.
+
+Mỉm cười.
+
+"Thứ Tư."
+
+Bạn đứng chết lặng.
+
+Mẹ hỏi:
+
+"Con sao vậy?"
+
+Bạn chưa kịp trả lời.
+
+Chiếc bánh mì trên bàn khẽ rung.
+
+Nó nói:
+
+"Lần này nhớ đừng ăn tôi."
+
+Bạn nhìn nó.
+
+"...Tại sao?"
+
+Bánh mì im lặng.
+
+Rồi nó nói:
+
+"Vì tôi là người viết."
+
+---
+
+Hết.
+
+À không.
+
+Còn một vấn đề.
+
+Người đang đọc câu này...
+
+...không phải bạn.
+
+Là phiên bản mới của bạn.
+
+Phiên bản cũ đã đọc xong từ trước rồi.`
+      }
+    ]
+}
+  
+];
 // ============ LOAD DỮ LIỆU ============
 var userStories=JSON.parse(localStorage.getItem('ls:stories')||'[]');
 var STORIES=DEFAULT_STORIES.concat(userStories);
