@@ -722,10 +722,12 @@ applyFont();
 function parseHash(){
   var h=location.hash.replace(/^#/,'');
   if(!h)return{page:'home'};
+  if(h==='tos')return{page:'tos'};
   var p=h.split('/');
   if(p[0]==='story'&&p[1])return{page:'story',storyId:p[1]};
   if(p[0]==='read'&&p[1]&&p[2]!==undefined)return{page:'read',storyId:p[1],chIdx:parseInt(p[2])};
   return{page:'home'};
+
 }
 
 window.addEventListener('hashchange',render);
@@ -743,6 +745,10 @@ function render(){
     title.className='';
     title.innerHTML='Limbo<br>Stories';
     renderHome(main);
+  } else if(route.page==='tos'){
+    title.className='small';
+    title.textContent='Điều khoản sử dụng';
+    renderTOS(main);
   } else if(route.page==='story'){
     var s=STORIES.filter(function(x){return x.id===route.storyId})[0];
     if(!s){location.hash='';return}
@@ -794,7 +800,38 @@ function renderHome(m){
     m.appendChild(card);
   });
 }
-
+function renderTOS(m){
+  m.appendChild(el('a',{href:'#',className:'tos-back',textContent:'← Quay lại'}));
+  var box=el('div',{className:'tos-content'});
+  box.appendChild(el('h2',{textContent:'Điều khoản sử dụng'}));
+  var ol=el('ol');
+  var tosList=[
+    ['Điều 1 — Về việc mở web','Khi bạn mở web, bạn xác nhận rằng bạn đã mở web. Nếu bạn chưa mở web, điều khoản này tạm thời chưa áp dụng.'],
+    ['Điều 2 — Về nút "Quay lại"','Người dùng được quyền quay lại trang trước. Tuy nhiên, web không chịu trách nhiệm nếu trang trước không còn tồn tại do bạn đã quay lại quá nhiều lần.'],
+    ['Điều 3 — Về việc cuộn trang','Bạn có thể cuộn lên hoặc xuống tùy ý. Cuộn ngang là quyền tự do của bạn, nhưng chúng tôi không hiểu tại sao bạn lại làm vậy.'],
+    ['Điều 4 — Về tốc độ mạng','Nếu web tải chậm, vui lòng kiểm tra mạng. Nếu mạng nhanh mà web vẫn chậm, vui lòng kiểm tra lại mạng để chắc chắn.'],
+    ['Điều 5 — Về nội dung','Một số nội dung có thể khiến bạn suy nghĩ. Chúng tôi không chịu trách nhiệm nếu bạn suy nghĩ quá nhiều và sau đó nhìn trần nhà trong 17 phút.'],
+    ['Điều 6 — Về nút "Lưu"','Nhấn "Lưu" không đảm bảo rằng bạn sẽ nhớ mình đã lưu cái gì.'],
+    ['Điều 7 — Về ảnh','Người dùng được phép nhìn ảnh. Việc nhìn ảnh quá lâu có thể khiến ảnh vẫn là ảnh.'],
+    ['Điều 8 — Về lỗi hệ thống','Nếu xuất hiện lỗi, hãy thử tải lại trang. Nếu lỗi vẫn còn, lỗi đã chính thức trở thành một phần của trải nghiệm.'],
+    ['Điều 9 — Về màn hình trắng','Màn hình trắng không nhất thiết có nghĩa là web hỏng. Có thể web đang suy nghĩ.'],
+    ['Điều 10 — Về việc đóng tab','Bạn có toàn quyền đóng tab. Sau khi đóng, web sẽ không chạy theo bạn.'],
+    ['Điều 11 — Về quyền riêng tư','Web tôn trọng quyền riêng tư của bạn. Web cũng mong bạn tôn trọng quyền riêng tư của web bằng cách không hỏi tại sao web có điều khoản này.'],
+    ['Điều 12 — Về tên Quangda14','"Quangda14" là tên của web trong phạm vi web. Nếu bạn gọi web bằng tên khác, web có quyền giả vờ không nghe thấy.'],
+    ['Điều 13 — Về việc đọc toàn bộ điều khoản','Nếu bạn đã đọc tới đây, xin chúc mừng. Bạn vừa làm điều mà phần lớn người dùng sẽ không làm.'],
+    ['Điều 14 — Điều khoản tối cao','Trong trường hợp hai điều khoản mâu thuẫn nhau, điều khoản nào nghe hợp lý hơn sẽ thắng. Nếu cả hai đều vô lý, chúng tôi sẽ tạo thêm một điều khoản mới để giải quyết.'],
+    ['Điều 15 — Điều khoản cuối cùng','Bằng việc tiếp tục sử dụng web, bạn đồng ý rằng mình đã đọc, hoặc ít nhất đã kéo xuống đủ nhanh để hệ thống tưởng rằng bạn đã đọc.']
+  ];
+  tosList.forEach(function(item){
+    var li=el('li');
+    li.appendChild(el('b',{textContent:item[0]}));
+    li.appendChild(document.createTextNode(item[1]));
+    ol.appendChild(li);
+  });
+  box.appendChild(ol);
+  box.appendChild(el('p',{className:'tos-end',textContent:'— Hết điều khoản —'}));
+  m.appendChild(box);
+}
 function renderStory(m,s){
   m.appendChild(el('a',{href:'#',className:'back-link',textContent:'← Quay lại'}));
   m.appendChild(el('p',{className:'intro',textContent:s.desc}));
