@@ -54,3 +54,12 @@ body.admin .add-story-btn{display:inline-flex}
 body.admin .delete-story{display:block}
 .delete-story:hover{border-color:#c1121f;color:#c1121f}
 @media(max-width:520px){header{padding:32px 16px 18px}main{padding:16px 16px 60px}.reader .chapter-title{font-size:26px}}
+/* ===== TOS ===== */
+.tos-content{max-width:680px;margin:0 auto}
+.tos-content h2{font:800 28px/1.2 'Bricolage Grotesque',system-ui,sans-serif;margin:0 0 24px}
+.tos-content ol{padding-left:24px}
+.tos-content li{margin-bottom:18px;line-height:1.75}
+.tos-content li b{font:700 17px 'Bricolage Grotesque',system-ui,sans-serif;display:block;margin-bottom:4px}
+.tos-back{display:inline-block;color:var(--mute);text-decoration:none;margin-bottom:20px;font-size:15px;font-family:'Bricolage Grotesque',system-ui,sans-serif}
+.tos-back:hover{color:var(--ink)}
+.tos-end{margin-top:32px;padding-top:24px;border-top:1px solid var(--line);color:var(--mute);font-style:italic;text-align:center}
