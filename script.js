@@ -254,15 +254,371 @@ Bạn chưa bao giờ rời khỏi Limbo.
 Bạn chỉ bước vào một nơi trông giống như thực tại mà thôi.
 
 Câu chuyện, chỉ mới bắt đầu.`
-      }
-    ]
-  },
-  {
-    id:'phien-ban-0',
-    title:'PHIÊN BẢN 0.0.0 KHÔNG TỒN TẠI',
-    desc:'Sáng thứ Hai, bạn thức dậy lúc 7 giờ 12 phút. Điều đầu tiên bạn nhận ra là: bạn chưa ngủ. Điều thứ hai: hôm nay không phải thứ Hai.',
-    chapters:[
+       },
       {
+        title:'Chương 2 — Thành Phố Không Có Bóng',
+        content:`Bạn không chạy.
+
+Không phải vì can đảm.
+
+Mà vì con phố trước mặt đã biến mất.
+
+Chỗ đáng lẽ phải là ngã tư giờ chỉ còn một khoảng xám phẳng lì, kéo dài đến tận đường chân trời. Những tòa nhà hai bên phố vẫn đứng đó, nhưng tất cả cửa sổ đều tối om. Không một chiếc xe. Không tiếng động cơ. Không tiếng người.
+
+Chỉ có bóng của bạn tiếp tục tiến lại gần.
+
+Bạn lùi một bước.
+
+Cái bóng dừng lại.
+
+Bạn giơ điện thoại lên. Màn hình vẫn sáng, pin 100%, nhưng giờ không còn biểu tượng sóng hay đồng hồ. Chỉ có một ứng dụng mới nằm giữa màn hình.
+
+Tên ứng dụng: BẢN ĐỒ.
+
+Bạn chưa từng cài nó.
+
+Bạn chạm vào.
+
+Bản đồ mở ra, hiển thị một chấm xanh và một con đường duy nhất. Điểm đến được đánh dấu bằng dòng chữ:
+
+THÀNH PHỐ KHÔNG CÓ BÓNG.
+
+Bên dưới là khoảng cách:
+
+13 phút đi bộ.
+
+Bạn nhìn quanh.
+
+Con phố không có lối đi nào khác.
+
+"Được thôi," bạn nói. "Cứ đi vậy."
+
+Giọng bạn vang lên, rồi vang lại lần nữa từ phía sau.
+
+"Được thôi. Cứ đi vậy."
+
+Bạn quay phắt lại.
+
+Không có ai.
+
+Cái bóng của bạn vẫn đứng yên ở cuối phố, hai tay buông thõng. Nhưng bạn đã không còn nhìn thấy chân nó nữa. Phần dưới cơ thể tan vào mặt đường như mực đổ xuống nước.
+
+Bạn bắt đầu đi.
+
+---
+
+Sau đúng mười ba phút, bạn đến một trạm xe buýt.
+
+Biển báo ghi: TUYẾN 0.
+
+Không có giờ chạy. Không có điểm đến.
+
+Trên ghế chờ có một người đàn ông mặc đồng phục màu xám. Gương mặt ông bị che khuất bởi chiếc mũ, hai bàn tay đặt ngay ngắn trên đầu gối.
+
+Bạn hỏi:
+
+"Chú ơi, thành phố không có bóng ở đâu ạ?"
+
+Người đàn ông không ngẩng đầu.
+
+"Cháu đang ở đó."
+
+Bạn nhìn con đường phía sau. Những ngôi nhà vẫn giống hệt lúc nãy, nhưng các cửa sổ đã sáng lên. Sau mỗi ô kính là một căn phòng trống, giống nhau đến từng chiếc ghế, từng ngọn đèn.
+
+Bạn hỏi tiếp:
+
+"Vậy cháu phải đi đâu?"
+
+Người đàn ông chỉ vào chiếc ghế bên cạnh.
+
+"Ngồi chờ chuyến cuối."
+
+"Chuyến cuối đi đâu?"
+
+Ông ta chậm rãi ngẩng đầu.
+
+Bên dưới chiếc mũ không có gương mặt.
+
+Chỉ có một tấm biển nhỏ, treo lơ lửng trong khoảng tối:
+
+ĐỪNG HỎI ĐIỂM ĐẾN KHI CHƯA BIẾT MÌNH ĐANG ĐI TỪ ĐÂU.
+
+Bạn lùi lại.
+
+Người đàn ông cúi đầu xuống như chưa từng có chuyện gì xảy ra.
+
+Từ xa, tiếng động cơ vang lên.
+
+Một chiếc xe buýt trắng tiến đến. Không có tài xế. Không có đèn pha. Trên bảng điện tử phía trước chỉ hiện một con số:
+
+0.
+
+Cửa xe mở ra.
+
+Điện thoại rung lên.
+
+BẢN ĐỒ: Bạn đã đến nơi.
+
+Bạn không muốn bước lên xe.
+
+Nhưng khi nhìn lại, trạm chờ đã biến mất. Con đường phía sau bị thay bằng một bức tường bê tông cao đến mức không thể nhìn thấy đỉnh.
+
+Chỉ còn chiếc xe buýt.
+
+Bạn bước lên.
+
+---
+
+Bên trong xe có mười hai hàng ghế.
+
+Tất cả đều trống.
+
+Bạn ngồi ở hàng ghế thứ sáu, cạnh cửa sổ. Xe bắt đầu chạy ngay khi bạn vừa ngồi xuống.
+
+Bên ngoài, thành phố lướt qua trong im lặng. Những cửa hàng không có tên. Những biển quảng cáo chỉ có hình một chiếc đèn đang tắt. Những người đứng bên đường đều quay lưng về phía xe.
+
+Rồi bạn nhìn thấy một cửa tiệm quen thuộc.
+
+Một cửa tiệm nhỏ với tấm biển xanh lam.
+
+GA TIẾP THEO: BẠN.
+
+Chính là nhà ga bên vùng biển đen.
+
+Bạn đứng bật dậy.
+
+"Cho tôi xuống!"
+
+Xe không giảm tốc.
+
+Bạn đập vào cửa kính.
+
+Ở bên ngoài, một người đang đứng trước cửa tiệm. Người đó mặc đúng bộ quần áo của bạn, cầm một chiếc điện thoại giống hệt điện thoại của bạn.
+
+Người đó nhìn lên.
+
+Là bạn.
+
+Nhưng lần này, bản sao không bắt chước động tác.
+
+Nó mỉm cười trước.
+
+Rồi áp điện thoại lên kính, để bạn đọc được dòng chữ trên màn hình:
+
+ĐỪNG ĐỂ HỌ ĐẾM ĐỦ MƯỜI HAI.
+
+Bạn quay lại.
+
+Trong xe, những chiếc ghế không còn trống nữa.
+
+Có người đang ngồi ở mỗi hàng.
+
+Mười một người.
+
+Tất cả đều cúi đầu, khuôn mặt bị bóng tối che kín. Người ngồi hàng đầu tiên từ từ ngẩng lên. Trên ngực áo người đó có một tấm thẻ.
+
+SỐ 1.
+
+Người tiếp theo cũng ngẩng đầu.
+
+SỐ 2.
+
+Bạn lùi về phía cuối xe.
+
+Số 3.
+
+Số 4.
+
+Số 5.
+
+Bạn đếm mà không muốn đếm.
+
+Số 6.
+
+Số 7.
+
+Số 8.
+
+Số 9.
+
+Số 10.
+
+Số 11.
+
+Chiếc ghế bên cạnh bạn vẫn trống.
+
+Xe buýt rẽ vào một đường hầm. Đèn trong xe tắt phụt.
+
+Trong bóng tối, một giọng nói vang lên ngay sát tai bạn:
+
+"Xin quý khách vui lòng nhường ghế cho hành khách cuối cùng."
+
+Bạn cảm thấy chiếc ghế bên cạnh lún xuống.
+
+Có ai đó vừa ngồi xuống.
+
+Một bàn tay lạnh ngắt đặt lên vai bạn.
+
+Điện thoại sáng lên.
+
+BẢN ĐỒ: Còn 1 hành khách chưa xác định.
+
+Bạn nín thở.
+
+Giọng nói bên cạnh thì thầm bằng chính giọng của bạn:
+
+"Đến lượt bạn rồi."
+
+Bạn bật màn hình lên, dùng ánh sáng soi sang.
+
+Không có ai trên ghế.
+
+Nhưng trên lớp kính cửa sổ, phản chiếu của bạn vẫn đang ngồi đó.
+
+Và phản chiếu ấy có một cái bóng.
+
+---
+
+Xe dừng lại.
+
+Đèn bật sáng.
+
+Tất cả hành khách đã biến mất. Cửa xe mở ra trước một tòa nhà thấp, trên mái có dòng chữ:
+
+TRUNG TÂM ĐĂNG KÝ DANH TÍNH.
+
+Bạn bước xuống.
+
+Bên trong là một sảnh chờ rộng, tường phủ gạch trắng. Một chiếc đồng hồ treo trên cao chỉ 7 giờ 12 phút. Kim giây đứng yên.
+
+Sau quầy tiếp nhận có một nhân viên mặc đồng phục xanh. Lần này, người đó có gương mặt bình thường.
+
+"Xin chào. Bạn đến đăng ký lần đầu hay gia hạn?"
+
+"Tôi không biết đây là đâu."
+
+Nhân viên gõ bàn phím.
+
+"Tên?"
+
+Bạn nói tên mình.
+
+Cô ta nhìn màn hình, rồi ngừng gõ.
+
+"Không tìm thấy."
+
+"Thử lại đi."
+
+Cô ta gõ lần nữa.
+
+"Vẫn không tìm thấy."
+
+"Vậy tôi phải làm gì?"
+
+Cô ta đẩy qua quầy một tờ giấy. Trên đó có ba dòng:
+
+TÊN: __________
+
+BÓNG: CÓ / KHÔNG
+
+LẦN ĐẾN: __________
+
+Bạn cầm bút.
+
+Ở dòng TÊN, bạn viết tên mình.
+
+Mực vừa chạm giấy đã nhạt dần, rồi biến mất.
+
+Ở dòng BÓNG, bạn khoanh chữ CÓ.
+
+Đèn trong sảnh chớp tắt.
+
+Cô nhân viên nhìn xuống chân bạn.
+
+"Bạn chắc chứ?"
+
+Bạn cũng nhìn xuống.
+
+Dưới chân bạn không có bóng.
+
+Bạn gạch chữ CÓ, khoanh lại chữ KHÔNG.
+
+Cô ta gật đầu, đóng dấu lên tờ giấy.
+
+LẦN ĐẾN: 2.
+
+Bạn nhìn con dấu.
+
+"Tôi chưa từng đến đây."
+
+Cô nhân viên trả lời bằng giọng rất bình thản:
+
+"Đó là điều mà tất cả mọi người nói trong lần thứ hai."
+
+Phía sau quầy, một cánh cửa mở ra.
+
+Trên cửa ghi:
+
+PHÒNG LƯU TRỮ — HỒ SƠ CỦA NHỮNG NGƯỜI ĐÃ TRỞ VỀ.
+
+Điện thoại rung lên lần cuối.
+
+Ứng dụng BẢN ĐỒ tự đóng.
+
+Một tin nhắn mới xuất hiện từ chính số điện thoại của bạn:
+
+"Nếu hồ sơ của bạn đã có sẵn, đừng đọc trang cuối."
+
+Cánh cửa phòng lưu trữ mở rộng hơn.
+
+Bên trong, hàng nghìn ngăn tủ kéo dài vào bóng tối. Trên mỗi ngăn đều có một cái tên.
+
+Bạn nhìn thấy tên mình ở cuối dãy.
+
+Ngăn tủ đã mở sẵn.
+
+Bên trong chỉ có một tập hồ sơ mỏng.
+
+Trang đầu tiên là ảnh chụp bạn đang đứng trước biển đen.
+
+Trang thứ hai là ảnh bạn ngồi trên xe buýt.
+
+Trang thứ ba là tờ giấy vừa điền ở quầy tiếp nhận.
+
+Bạn lật sang trang cuối.
+
+Dòng chữ in đậm nằm giữa trang:
+
+TRẠNG THÁI: ĐÃ TRỞ VỀ THẾ GIỚI THỰC.
+
+Bên dưới có một dòng viết tay, nét chữ giống hệt bạn:
+
+"Nếu bạn đang đọc hồ sơ này, nghĩa là lần trở về tiếp theo đã thất bại."
+
+Phía sau lưng, loa phát thanh vang lên:
+
+"Thông báo. Hành khách số 12 đã được xác nhận."
+
+Bạn nhìn xuống chân.
+
+Một cái bóng dài đang phủ lên đôi giày.
+
+Nhưng cái bóng không hướng về phía ngọn đèn.
+
+Nó đang chỉ thẳng vào cánh cửa cuối hành lang.
+
+Trên cánh cửa, có ai đó vừa viết thêm một dòng:
+
+1354 — TRIỀU BIỂN KHÔNG NGỦ.
+
+Và từ phía bên kia, tiếng tàu bắt đầu vang lên.`
+  }, 
+{
+   id:'phien-ban-0',
+   title:'PHIÊN BẢN 0.0.0 KHÔNG TỒN TẠI',
+   desc:'Sáng thứ Hai, bạn thức dậy lúc...',
+   chapters:[
+     {
         title:'Chương 1 — Thứ Tư',
         content:`Sáng thứ Hai, bạn thức dậy lúc 7 giờ 12 phút.
 
