@@ -820,11 +820,10 @@ Giáo sư Vance nhập dãy mật mã dài 12 chữ số. Màn hình chuyển sa
 [PHÁT HIỆN TRUY CẬP TRÁI PHÉP - KÍCH HOẠT QUY TRÌNH ĐÓNG BĂNG BẢO VỆ TRONG 180 GIÂY]
 
 Cửa thông gió phía trên trần nhà bắt đầu phun ra những làn sương trắng đục với áp lực mạnh. Nhiệt độ trong phòng máy chủ bắt đầu tụt dốc không phanh...`
-      }
+      }         
     ]
   }
 ];
-
 // ============ LOAD DỮ LIỆU ============
 var userStories=JSON.parse(localStorage.getItem('ls:stories')||'[]');
 var STORIES=DEFAULT_STORIES.concat(userStories);
