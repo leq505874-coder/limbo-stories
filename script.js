@@ -731,7 +731,7 @@ Mẹ suy nghĩ rất lâu.
 Bạn bắt đầu thấy có vấn đề.`
       }
     ]
-  },  
+  },
   {
     id:'dem-lanh',
     title:'Dự Án: Đêm Lạnh',
@@ -820,10 +820,11 @@ Giáo sư Vance nhập dãy mật mã dài 12 chữ số. Màn hình chuyển sa
 [PHÁT HIỆN TRUY CẬP TRÁI PHÉP - KÍCH HOẠT QUY TRÌNH ĐÓNG BĂNG BẢO VỆ TRONG 180 GIÂY]
 
 Cửa thông gió phía trên trần nhà bắt đầu phun ra những làn sương trắng đục với áp lực mạnh. Nhiệt độ trong phòng máy chủ bắt đầu tụt dốc không phanh...`
-      }         
+      }
     ]
   }
 ];
+
 // ============ LOAD DỮ LIỆU ============
 var userStories=JSON.parse(localStorage.getItem('ls:stories')||'[]');
 var STORIES=DEFAULT_STORIES.concat(userStories);
@@ -982,7 +983,7 @@ function renderStory(m,s){
   var readUpTo=getProgress(s.id);
   s.chapters.forEach(function(c,i){
     var a=el('a',{href:'#read/'+s.id+'/'+i,className:'chapter-link'+(i<=readUpTo?' read':'')});
-        a.appendChild(el('span',{className:'title',textContent:c.title}));
+    a.appendChild(el('span',{className:'title',textContent:c.title}));
     a.appendChild(el('span',{className:'num',textContent:'Ch.'+(i+1)+' →'}));
     list.appendChild(a);
   });
