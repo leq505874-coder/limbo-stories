@@ -731,7 +731,98 @@ Mẹ suy nghĩ rất lâu.
 Bạn bắt đầu thấy có vấn đề.`
       }
     ]
+  },  {
+    id:'dem-lanh',
+    title:'Dự Án: Đêm Lạnh',
+    desc:'00:00. Hệ thống kích hoạt. Nhiệt độ bắt đầu giảm. Bạn có 180 giây để sống sót trước khi bị đóng băng vĩnh viễn.',
+    chapters:[
+      {
+        title:'Chương 1: Khoảnh Khắc Bắt Đầu',
+        content:`Tiếng tích tắc của chiếc đồng hồ treo tường trong căn phòng làm việc cũ kỹ nghe rõ mùng một. Chuột máy tính trên tay Minh khựng lại. Ánh sáng màn hình phản chiếu khuôn mặt mệt mỏi của anh giữa không gian tối om.
+
+Đúng 00:00.
+
+Đột nhiên, màn hình máy tính chớp tắt hai lần. Dòng chữ trắng nổi lên trên nền đen thẫm:
+
+"[HỆ THỐNG DỰ ÁN: ĐÊM LẠNH - KÍCH HOẠT]
+Nhiệt độ hiện tại: 25°C. Bắt đầu đếm ngược."
+
+Minh nhíu mày. Anh tưởng đây chỉ là một trò đùa của đồng nghiệp trong công ty phần mềm. Nhưng ngay khoảnh khắc đó, một luồng khí lạnh đột ngột tràn qua căn phòng. Cảm giác như có ai đó vừa mở tung cửa sổ vào giữa một đêm mùa đông, dù lúc này đang là giữa tháng Bảy.
+
+Trên màn hình, chỉ số nhiệt độ bắt đầu nhảy số: 24°C... 23°C... 22°C...
+
+Tiếng chuông điện thoại bàn ở góc phòng vang lên rên rỉ. Anh nhấc máy: "Alo?"
+
+Đầu dây bên kia không có tiếng trả lời, chỉ có tiếng gió lùa ù ù và tiếng thì thầm đứt đoạn: "Đừng tắt đèn... Đừng nhìn vào gương... Hãy giữ cho ngọn lửa của bạn không bị dập tắt trước khi bình minh lên..."`
+      },
+      {
+        title:'Chương 2: Những Dấu Hiệu Ban Đầu',
+        content:`Leon dán mắt vào màn hình chiếc điện thoại thông minh. Đoạn video ngắn mà cậu vô tình nhặt được từ chiếc thẻ nhớ bị rơi trên xe buýt chiều nay vừa kết thúc.
+
+Trong video, một nhóm nhà khoa học hoảng loạn chạy trốn khỏi căn phòng thí nghiệm ngập tràn làn sương trắng lạnh lẽo—thứ được họ gọi là "Icevirus". Tuy nhiên, ở 3 giây cuối cùng, một dòng chữ nhỏ màu xám hiện ra: "Tất cả hình ảnh và nội dung chỉ là kỹ xảo điện ảnh."
+
+Thế nhưng, đó là chuyện của hai tháng trước.
+
+Đêm nay, Leon đứng bên cửa sổ phòng ngủ. Kim đồng hồ chỉ đúng 00:00. Dù đang là giữa mùa hè, nhiệt độ ban đêm tại thành phố đã tụt giảm một cách bất thường trong vài tuần qua. Ban ngày mặt trời vẫn chói chang, nhưng ngay khi hoàng hôn tắt bóng, cái lạnh tê tái từ đâu lại tràn về.
+
+Leon hà hơi vào mặt kính cửa sổ. Luồng khí đọng lại thành một lớp sương mỏng, rồi nhanh chóng đóng thành những tinh thể băng nhỏ li ti.
+
+Chiếc điện thoại trên tay cậu bỗng rung lên:
+
+"[CẢNH BÁO THỜI TIẾT KÝ BĂNG]
+Nhiệt độ ngoài trời: -2°C và tiếp tục giảm.
+Dự án Đêm Lạnh: Giai đoạn 2 đã kích hoạt."`
+      },
+      {
+        title:'Chương 3: Lời Manh Mối Trong Đêm Băng Tuyết',
+        content:`Những bông tuyết mùa hè rơi lặng lẽ dưới ánh đèn đường. Leon quay lại bàn làm việc, mở chiếc hộp nhỏ lấy chiếc thẻ nhớ nhặt được hai tháng trước. Góc trên thẻ nhớ có khắc một ký hiệu kỳ lạ: hình một bông tuyết lồng bên trong một bánh răng công nghiệp, kèm theo dãy số mờ nhạt B-13.
+
+Đúng lúc đó, một tin nhắn từ số ẩn danh gửi đến:
+
+"Tôi biết cậu đã xem video. Nếu muốn sống sót qua Giai đoạn 2, hãy mang chiếc thẻ nhớ đến trạm xe buýt B-13 trước 01:00 sáng. Đừng đi một mình nếu không có nguồn nhiệt."
+
+Leon nhìn đồng hồ: 00:15. Cậu nhanh chóng khoác áo ấm, vơ lấy đèn pin và bình giữ nhiệt rồi bước ra ngoài con phố đang phủ đầy băng tuyết.`
+      },
+      {
+        title:'Chương 4: Cuộc Hẹn Ở Trạm Xe Buýt B-13',
+        content:`Leon rảo bước đến Trạm xe buýt B-13 lúc 00:45. Tại đây, cậu gặp lại Giáo sư Vance—người từng xuất hiện trong đoạn video hai tháng trước.
+
+Giáo sư Vance tiết lộ rằng dòng chữ "kỹ xảo" chỉ là lớp ngụy trang để tuồn dữ liệu ra ngoài. "Icevirus" thực chất là một hợp chất sinh học nano tự hấp thụ nhiệt năng trong không khí vào ban đêm và nhân bản với tốc độ chóng mặt.
+
+"Trong chiếc thẻ nhớ cậu đang giữ có chứa một nửa mã khóa. Nửa còn lại nằm trong máy chủ trung tâm tại tầng hầm B3 của viện nghiên cứu kia. Tôi cần sự giúp đỡ của cậu," Giáo sư Vance nói.
+
+Leon nhìn chiếc thẻ nhớ trên tay, rồi nhìn về phía tòa nhà u tối ẩn hiện trong màn sương giá. Cuộc hành trình xâm nhập viện nghiên cứu chính thức bắt đầu.`
+      },
+      {
+        title:'Chương 5: Đột Nhập Tầng Hầm B3',
+        content:`Ánh đèn pin rọi vào cánh cửa sắt hoen gỉ của Trung tâm Nghiên cứu B-13, cắt ngang lớp sương lạnh đang ngày một dày đặc. Giáo sư Vance lấy ra một chiếc thẻ từ cũ, quẹt qua bảng điều khiển bên hông cửa. Một tiếng "tít" ngắn vang lên, kéo theo tiếng cơ khí nặng nề chuyển động. Cánh cửa chậm rãi mở ra, xả ra một luồng khí lạnh tê tái như vừa mở cửa một phòng đông lạnh khổng lồ.
+
+"Đi sát tôi, Leon," Giáo sư Vance hạ thấp giọng, bật chiếc đèn hồng ngoại cầm tay. "Hệ thống an ninh chính đã sụp đổ, nhưng hệ thống cảm biến nhiệt vẫn còn hoạt động. Nếu nhiệt độ cơ thể chúng ta làm tăng nhiệt độ môi trường xung quanh quá nhanh, các biện pháp phong tỏa tự động sẽ kích hoạt."
+
+Cả hai bước qua dãy hành lang tối om. Tường gạch bám đầy những mảng băng tuyết lóng lánh dưới ánh đèn. Càng đi xuống sâu theo cầu thang dẫn đến tầng hầm B3, cái lạnh càng cắt sâu vào da thịt, khiến từng nhịp thở của Leon nghẹn lại.
+
+Khi đến trước cửa phòng máy chủ trung tâm B3, một chiếc bảng điện tử lớn hiện ra với ổ cắm thẻ nhớ và bàn phím mật mã.
+
+"Nào, đưa chiếc thẻ nhớ cho tôi," Giáo sư Vance nói, tay run lên vì lạnh.
+
+Leon cẩn thận cắm chiếc thẻ nhớ vào slot kết nối. Ngay lập tức, màn hình trung tâm bừng sáng với hàng loạt dòng lệnh đỏ rực:
+
+[YÊU CẦU XÁC NHẬN MÃ KHÓA KÉP]
+[CẢNH BÁO: ICEVIRUS ĐÃ ĐẠT 40% MẬT ĐỘ TỐI ĐA]
+
+"Bây giờ là phần của thầy," Leon quay sang nói.
+
+Giáo sư Vance nhập dãy mật mã dài 12 chữ số. Màn hình chuyển sang màu xanh lục, thanh tiến trình giải mã bắt đầu chạy: 10%... 30%... 70%...
+
+Đột nhiên, một tiếng còi báo động chói tai vang lên khắp tầng hầm. Ánh đèn đỏ cảnh báo chớp nháy liên hồi. Bảng điều khiển hiện lên dòng chữ nhấp nháy đỏ thẫm:
+
+[PHÁT HIỆN TRUY CẬP TRÁI PHÉP - KÍCH HOẠT QUY TRÌNH ĐÓNG BĂNG BẢO VỆ TRONG 180 GIÂY]
+
+Cửa thông gió phía trên trần nhà bắt đầu phun ra những làn sương trắng đục với áp lực mạnh. Nhiệt độ trong phòng máy chủ bắt đầu tụt dốc không phanh...`
+      }
+    ]
   }
+
 ];
 
 // ============ LOAD DỮ LIỆU ============
