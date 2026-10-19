@@ -733,14 +733,14 @@ Bạn bắt đầu thấy có vấn đề.`
     ]
   },
   {
-    id:'dem-lanh',
-    title:'Dự Án: Đêm Lạnh',
-    desc:'00:00. Hệ thống kích hoạt. Nhiệt độ bắt đầu giảm. Bạn có 180 giây để sống sót trước khi bị đóng băng vĩnh viễn.',
-    chapters:[
-      {
-        title:'Chương 1: Khoảnh Khắc Bắt Đầu',
-        content:`Tiếng tích tắc của chiếc đồng hồ treo tường trong căn phòng làm việc cũ kỹ nghe rõ mùng một. Chuột máy tính trên tay Minh khựng lại. Ánh sáng màn hình phản chiếu khuôn mặt mệt mỏi của anh giữa không gian tối om.
-
+id:'dem-lanh',
+title:'Dự Án: Đêm Lạnh',
+desc:'00:00. Hệ thống kích hoạt. Nhiệt độ bắt đầu giảm. Bạn có 180 giây để sống sót trước khi bị đóng băng vĩnh viễn.',
+chapters:[
+  {
+title:'Chương 1: Khoảnh Khắc Bắt Đầu',
+content:`Tiếng tích tắc của chiếc đồng hồ treo tường trong căn phòng làm việc cũ kỹ nghe rõ mùng một. Chuột máy tính trên tay Minh khựng lại. Ánh sáng màn hình phản chiếu khuôn mặt mệt mỏi của anh giữa không gian tối om.
+        
 Đúng 00:00.
 
 Đột nhiên, màn hình máy tính chớp tắt hai lần. Dòng chữ trắng nổi lên trên nền đen thẫm:
